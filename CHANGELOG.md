@@ -1,5 +1,27 @@
 # Changelog
 
+## [3.1.0](https://www.github.com/jef/streetmerchant/compare/v3.0.0...v3.1.0) (2020-11-15)
+
+
+### Features
+
+* **asus:** add backoff codes ([#790](https://www.github.com/jef/streetmerchant/issues/790)) ([501ea34](https://www.github.com/jef/streetmerchant/commit/501ea34a54e877600050d5a99fd3b71ec799e96a))
+* **store:** add `PlayStation` store ([#806](https://www.github.com/jef/streetmerchant/issues/806)) ([7c28c7f](https://www.github.com/jef/streetmerchant/commit/7c28c7f72b171ce914aba770d88e8b1213c41233))
+* **store:** add topachat ([#776](https://www.github.com/jef/streetmerchant/issues/776)) ([c38bebb](https://www.github.com/jef/streetmerchant/commit/c38bebb49dbe8243d0e3f1205150a33f9ce745aa))
+* add amazon-fr to stores. ([#766](https://www.github.com/jef/streetmerchant/issues/766)) ([02d7c47](https://www.github.com/jef/streetmerchant/commit/02d7c47c4093ad71dfab31f93a9b1390f4cad8a0))
+* **store:** support for canadacomputers ([#772](https://www.github.com/jef/streetmerchant/issues/772)) ([bd69e47](https://www.github.com/jef/streetmerchant/commit/bd69e471f7b47e7faf1d9858992d4157145518aa))
+
+
+### Bug Fixes
+
+* **amazon:** add 5800x and 5600x ([#802](https://www.github.com/jef/streetmerchant/issues/802)) ([167713b](https://www.github.com/jef/streetmerchant/commit/167713bb14080e5e1d2f77c7ee933918b6fd5cfc))
+* **bestbuy-ca:** use proper selector ([#801](https://www.github.com/jef/streetmerchant/issues/801)) ([63d550c](https://www.github.com/jef/streetmerchant/commit/63d550ca63b9bfd534f37b7747a1fae057abedb4))
+
+
+### Reverts
+
+* pipeline changes ([efe0d64](https://www.github.com/jef/streetmerchant/commit/efe0d64f060e812fd9846073a13837a3f2a27862))
+
 ## [3.0.0](https://www.github.com/jef/streetmerchant/compare/v2.0.0...v3.0.0) (2020-11-12)
 
 
